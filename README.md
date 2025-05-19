@@ -1,0 +1,1 @@
+# sec721-airdrop-only
